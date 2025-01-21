@@ -1,0 +1,103 @@
+.places {
+  margin-top: 92px;
+  width: 984px;
+  height: 756px;
+}
+
+.city {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  grid-gap: 48px 40px;
+  grid-template-areas:
+    "title artists"
+    "image info1"
+    "image info2"
+    "buy .";
+}
+
+.city__title {
+  margin: 0;
+  grid-area: title;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 76px;
+}
+
+.city__artists {
+  margin: 0;
+  grid-area: artists;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #aaaaaa;
+}
+
+.city__chief {
+  margin: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.city__manager {
+  margin: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+.city__image {
+  grid-area: image;
+}
+
+.city__image {
+  width: 460px;
+  height: 460px;
+}
+
+.city__info1 {
+  margin: 0;
+  grid-area: info1;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+.city__info2 {
+  margin: 0;
+  grid-area: info2;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+.city__info3 {
+  margin: 0;
+  grid-area: info2;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+.city__buy {
+  margin: 0;
+  grid-area: buy;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+}
