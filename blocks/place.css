@@ -51,6 +51,10 @@
   grid-area: image;
 }
 
+.place__image:hover {
+  opacity: 50%;
+}
+
 .place__paragraph {
   grid-area: info;
   margin: 0;
