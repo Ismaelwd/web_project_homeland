@@ -18,7 +18,7 @@
     grid-template-columns: 352px 352px;
     grid-template-rows: 264px 264px 264px 264px;
   }
-  .photo-grid__image {
+  .gallery__image {
     width: 352px;
     height: 264px;
   }
