@@ -1,8 +1,8 @@
 # Tripleten web_project_homeland
 
-Proyecto 5 - Diseño web adaptativo
+Proyecto 6 - Trabajar con diseños
 
-El objetivo de este proyecto es desarrollar una página web responsiva que se adapte a las dimensiones y especificaciones definidas en el diseño proporcionado en Figma.
+El objetivo de este proyecto es implementar y optimizar herramientas de diseño responsivo que permitan que la interfaz se adapte de manera eficiente a las diferentes dimensiones y especificaciones definidas en el diseño proporcionado mediante Figma.
 
 Las herramientas y tecnologías utilizadas en este proyecto son:
 
@@ -10,5 +10,7 @@ Las herramientas y tecnologías utilizadas en este proyecto son:
 Figma para definir la tipografía y las dimensiones del diseño.
 Media Queries para implementar un diseño responsivo adaptable a diferentes dispositivos.
 GitHub como plataforma para el control de versiones y alojamiento del código.
+Grid Layout
+Sombreados y degradados en CSS
 
 https://github.com/Ismaelwd/web_project_homeland
