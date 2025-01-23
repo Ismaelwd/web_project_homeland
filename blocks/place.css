@@ -131,7 +131,7 @@
     font-size: 16px;
   }
   .place {
-    grid-template-columns: 340px 352px;
+    grid-template-columns: 340px 1fr;
     grid-template-rows: auto 340px auto;
     grid-gap: 48px 28px;
     grid-template-areas:

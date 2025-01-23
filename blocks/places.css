@@ -6,3 +6,15 @@
   max-width: 984px;
   width: 100%;
 }
+
+@media screen and (max-width: 544px) {
+  .places {
+    max-width: 320px;
+  }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 545px) {
+  .places {
+    max-width: 720px;
+  }
+}
