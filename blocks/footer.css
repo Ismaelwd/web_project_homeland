@@ -18,14 +18,16 @@
 
 @media screen and (max-width: 544px) {
   .footer {
-    width: 320px;
+    max-width: 320px;
+    width: 100%;
     margin-top: 64px;
   }
 }
 
 @media screen and (max-width: 1024px) and (min-width: 545px) {
   .footer {
-    width: 768px;
+    max-width: 768px;
+    width: 100%;
     margin-top: 88px;
   }
 }
