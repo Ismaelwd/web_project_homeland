@@ -13,4 +13,4 @@ GitHub como plataforma para el control de versiones y alojamiento del código.
 Grid Layout
 Sombreados y degradados en CSS
 
-https://github.com/Ismaelwd/web_project_homeland
+https://ismaelwd.github.io/web_project_homeland/
